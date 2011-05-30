@@ -1,0 +1,4 @@
+To run the scraper you need to have BeautifulSoup in the same folder as the scrape.py file or in your path. 
+You also need to have an I2P instance running (http proxy) on port 4444. 
+
+Forked from this project http://www.michielovertoom.com/python/pastebin-abused/
